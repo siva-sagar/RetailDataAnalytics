@@ -4,9 +4,9 @@
     <content url="file://$MODULE_DIR$">
       <excludeFolder url="file://$MODULE_DIR$/venv" />
     </content>
-    <content url="jar://C:/spark/python/lib/py4j-0.10.9-src.zip!/" />
-    <content url="jar://C:/spark/python/lib/pyspark.zip!/" />
-    <orderEntry type="jdk" jdkName="Python 3.12 (RetailExpertAnalytics)" jdkType="Python SDK" />
+    <content url="jar://C:/spark-3.5.0-bin-hadoop3/python/lib/py4j-0.10.9.7-src.zip!/" />
+    <content url="jar://C:/spark-3.5.0-bin-hadoop3/python/lib/pyspark.zip!/" />
+    <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
 </module>
